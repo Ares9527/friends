@@ -422,3 +422,11 @@
   desc: 所有奇迹的始发点
   email: contact@kfdzcoffee.cn
   color: "#7FC8F8"
+- url: https://ares-tech-stack.cn/blog_service/#/about
+  avatar: https://ares-tech-stack.cn/blog_service/static/ares-profile.jpg
+  name: 阿泳
+  blog: 阿泳的小破站
+  desc: 快乐摸鱼的每一天~
+  # Or: All at sea.
+  email: 892950696@qq.com
+  color: '#0078e7'
